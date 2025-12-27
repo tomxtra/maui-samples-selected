@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace HybridWebViewDemo
+namespace HybridWebView
 {
     public class Program
     {

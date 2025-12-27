@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35309.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridWebViewDemo", "HybridWebViewDemo\HybridWebViewDemo.csproj", "{AA468903-C211-421B-A09A-81F3745FD28B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridWebView", "HybridWebView\HybridWebView.csproj", "{AA468903-C211-421B-A09A-81F3745FD28B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

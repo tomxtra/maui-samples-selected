@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Text.Json.Serialization;
 
-namespace HybridWebViewDemo;
+namespace HybridWebView;
 
 public partial class MainPage : ContentPage
 {

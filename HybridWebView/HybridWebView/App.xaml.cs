@@ -1,4 +1,4 @@
-﻿namespace HybridWebViewDemo
+﻿namespace HybridWebView
 {
     public partial class App : Application
     {

@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace HybridWebViewDemo
+namespace HybridWebView
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate
